@@ -7,5 +7,6 @@ Author: anuragkumarlpu@outlook.com This is auto filling form extension if any on
 
 
 
+![Capture](https://github.com/Royanurag98/AutoForm-Filling-Chrome-Extension/assets/120242830/b825ca9a-924f-4d39-8219-e86b29efd289)
 
 
